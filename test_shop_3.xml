@@ -16,4 +16,10 @@
         <stock externalWarehouseId="OCS-06NSB-Crop-test2" quantity="1"></stock>
     </stocks>
 </item>
+<item externalProductId="2000052905" externalId="2000052905"  sku="2000052905"  name="Новый товар" _price="">
+    <stocks>
+        <stock externalWarehouseId="OCS" quantity="1"></stock>
+        <stock externalWarehouseId="OCS-06NSB-Crop-test2" quantity="0"></stock>
+    </stocks>
+</item>
 </items>
