@@ -2,8 +2,8 @@
 	<item externalProductId="030620241325" externalId="030620241325"  sku="030620241325"  name="Бублик со страстью" price="100">
 		<stocks>
 		    <stock externalWarehouseId="Cheerful baker1" quantity="15"></stock>
-		    <stock externalWarehouseId="Cheerful baker2" quantity="0"></stock>
-		    <stock externalWarehouseId="Cheerful baker3" quantity="0"></stock>
+		    <stock externalWarehouseId="Cheerful baker2" quantity="15"></stock>
+		    <stock externalWarehouseId="Cheerful baker3" quantity="15"></stock>
 		</stocks>
 	</item>
 </items>
