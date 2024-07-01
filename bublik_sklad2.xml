@@ -1,7 +1,7 @@
 <items date="2024-06-27T12:00:42">
 	<item externalProductId="030620241325" externalId="030620241325"  sku="030620241325"  name="Бублик со страстью" price="105">
 		<stocks>
-		    <stock externalWarehouseId="Cheerful baker2" quantity="15"></stock>
+		    <stock externalWarehouseId="Cheerful baker2" quantity="5"></stock>
 		</stocks>
 	</item>
 </items>
