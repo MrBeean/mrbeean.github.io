@@ -1,7 +1,7 @@
 <items date="2024-07-16T12:00:00">
-	<item externalProductId="notebook" externalId="notebook"  sku="0306202413257"  name="Бублик со страстью" price="22990">
+	<item externalProductId="notebook" externalId="notebook"  sku="0306202413257"  name="🙈🙊🙉 Ноутбук" price="22990">
 		<stocks>
-		    <stock externalWarehouseId="Supplier's 01 warehouse 01" quantity="10"></stock>
+		    <stock externalWarehouseId="Supplier 01 warehouse 01" quantity="10"></stock>
 		</stocks>
 	</item>
 </items>
