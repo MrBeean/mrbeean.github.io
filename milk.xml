@@ -1,0 +1,13 @@
+<items date="2024-08-05T12:00:00">
+	<item externalProductId="218168" externalId="218168"  sku=""  name="Молокоотсос Ardo Calypso Double Plus 63.00.198" price="13000">
+		<stocks>
+		    <stock externalWarehouseId="milk001" quantity="10"></stock>
+		</stocks>
+	</item>
+	<item externalProductId="548441" externalId="548441"  sku=""  name="Молокоотсос Ramili Baby SE350" price="5000">
+		<stocks>
+		    <stock externalWarehouseId="milk001" quantity="10"></stock>
+		</stocks>
+	</item>
+</items>
+
