@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2020-11-22T14:37:38+03:00">
+<yml_catalog date="2024-08-13T16:56:38+03:00">
     <shop>
         <name>BestSeller</name>
         <company>Tne Best inc.</company>
@@ -13,9 +13,8 @@
             <currency id="USD" rate="60"/>
         </currencies>
         <categories>
-            <category id="1">Бытовая техника</category>
-            <category id="10" parentId="1">Мелкая техника для кухни</category>
-            <category id="101" parentId="10">Сэндвичницы и приборы для выпечки</category>
+            <category id="10" >Мелкая техника для кухни 2</category>
+            <category id="20" >Сэндвичницы и приборы для выпечки 2</category>
         </categories>
         <delivery-options>
             <option cost="200" days="1"/>
@@ -28,7 +27,7 @@
                 <name>Мороженица Brand</name>
                 <vendor>Brand</vendor>
                 <model>3811</model>   
-                <vendorCode>A1234567B</vendorCode>
+                <vendorCode>A0000001B</vendorCode>
                 <url>http://best.seller.ru/product_page.asp?pid=12345</url>
                 <price>8990</price>
                 <currencyId>RUR</currencyId>
@@ -56,7 +55,7 @@
                 <typePrefix>Сэндвичница</typePrefix>                            
                 <vendor>Brand</vendor>
                 <model>K220Y9</model>    
-                <vendorCode>A1234567B</vendorCode>
+                <vendorCode>A0000001B</vendorCode>
                 <url>http://best.seller.ru/product_page.asp?pid=12345</url>
                 <price>1099</price>
                 <currencyId>RUR</currencyId>
