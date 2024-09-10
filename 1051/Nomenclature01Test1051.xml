@@ -1,0 +1,32 @@
+<items date="2024-09-10T23:59:00">
+  <item externalProductId="Product01test1051" externalId="Product01test1051" name="Номенклатура связанного товара Product01test1051" price="100">
+    <stocks>
+      <stock externalWarehouseId="postsklad-1051" quantity="100"/>
+    </stocks>
+  </item>
+  <item externalProductId="Product02test1051" externalId="Product02test1051" name="Номенклатура связанного товара Product02test1051" price="100">
+    <stocks>
+      <stock externalWarehouseId="postsklad-1051" quantity="100"/>
+    </stocks>
+  </item>
+  <item externalId="Product03test1051" name="Номенклатура НЕ существующего товара Product03test1051" price="100">
+    <stocks>
+      <stock externalWarehouseId="postsklad-1051" quantity="100"/>
+    </stocks>
+  </item>
+  <item externalId="Product04test1051" name="Номенклатура НЕ существующего товара Product04test1051" price="100">
+    <stocks>
+      <stock externalWarehouseId="postsklad-1051" quantity="100"/>
+    </stocks>
+  </item>
+  <item externalId="Product05test1051" name="Номенклатура НЕ существующего товара Product05test1051" price="100">
+    <stocks>
+      <stock externalWarehouseId="postsklad-1051" quantity="100"/>
+    </stocks>
+  </item>
+  <item externalId="Product06test1051" name="Номенклатура НЕ существующего товара Product06test1051" price="100">
+    <stocks>
+      <stock externalWarehouseId="postsklad-1051" quantity="100"/>
+    </stocks>
+  </item>
+</items>
