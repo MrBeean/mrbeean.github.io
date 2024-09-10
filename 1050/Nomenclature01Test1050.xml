@@ -1,302 +1,502 @@
-<items date="2024-08-23T10:40:00">
-  <item externalId="Product03test1050" name="Номенклатура для создания товара Test-1050" price="1000">
+<items date="2024-08-23T23:59:00">
+  <item externalId="Product01test1050" name="Nomenclature 01 without link Test-1050" price="2200">
     <stocks>
-      <stock externalWarehouseId="postsklad-1050" quantity="25"/>
+      <stock externalWarehouseId="postsklad-1050" quantity="600"/>
     </stocks>
   </item>
-  <item externalId="Product03test1050" name="Номенклатура для создания товара Test-1050" price="1000">
+  <item externalId="Product02test1050" name="Nomenclature 02 without link Test-1050" price="2200">
     <stocks>
-      <stock externalWarehouseId="postsklad-1050" quantity="25"/>
+      <stock externalWarehouseId="postsklad-1050" quantity="220"/>
     </stocks>
   </item>
-  <item externalId="Product03test1050" name="Номенклатура для создания товара Test-1050" price="1000">
+  <item externalId="Product03test1050" name="Nomenclature 03 without link Test-1050" price="2300">
     <stocks>
-      <stock externalWarehouseId="postsklad-1050" quantity="25"/>
+      <stock externalWarehouseId="postsklad-1050" quantity="100"/>
     </stocks>
   </item>
-  <item externalId="Product03test1050" name="Номенклатура для создания товара Test-1050" price="1000">
+  <item externalId="Product04test1050" name="Nomenclature 04 without link Test-1050" price="2300">
     <stocks>
-      <stock externalWarehouseId="postsklad-1050" quantity="25"/>
+      <stock externalWarehouseId="postsklad-1050" quantity="600"/>
     </stocks>
   </item>
-  <item externalId="Product03test1050" name="Номенклатура для создания товара Test-1050" price="1000">
+  <item externalId="Product05test1050" name="Nomenclature 05 without link Test-1050" price="2300">
     <stocks>
-      <stock externalWarehouseId="postsklad-1050" quantity="25"/>
+      <stock externalWarehouseId="postsklad-1050" quantity="150"/>
     </stocks>
   </item>
-  <item externalId="Product03test1050" name="Номенклатура для создания товара Test-1050" price="1000">
+  <item externalId="Product06test1050" name="Nomenclature 06 without link Test-1050" price="2300">
     <stocks>
-      <stock externalWarehouseId="postsklad-1050" quantity="25"/>
+      <stock externalWarehouseId="postsklad-1050" quantity="100"/>
     </stocks>
   </item>
-  <item externalId="Product03test1050" name="Номенклатура для создания товара Test-1050" price="1000">
+  <item externalId="Product07test1050" name="Nomenclature 07 without link Test-1050" price="2300">
     <stocks>
-      <stock externalWarehouseId="postsklad-1050" quantity="25"/>
+      <stock externalWarehouseId="postsklad-1050" quantity="230"/>
     </stocks>
   </item>
-  <item externalId="Product03test1050" name="Номенклатура для создания товара Test-1050" price="1000">
+  <item externalId="Product08test1050" name="Nomenclature 08 without link Test-1050" price="2200">
     <stocks>
-      <stock externalWarehouseId="postsklad-1050" quantity="25"/>
+      <stock externalWarehouseId="postsklad-1050" quantity="230"/>
     </stocks>
   </item>
-  <item externalId="Product03test1050" name="Номенклатура для создания товара Test-1050" price="1000">
+  <item externalId="Product09test1050" name="Nomenclature 09 without link Test-1050" price="6000">
     <stocks>
-      <stock externalWarehouseId="postsklad-1050" quantity="25"/>
+      <stock externalWarehouseId="postsklad-1050" quantity="150"/>
     </stocks>
   </item>
-  <item externalId="Product03test1050" name="Номенклатура для создания товара Test-1050" price="1000">
+  <item externalId="Product10test1050" name="Nomenclature 10 without link Test-1050" price="6000">
     <stocks>
-      <stock externalWarehouseId="postsklad-1050" quantity="25"/>
+      <stock externalWarehouseId="postsklad-1050" quantity="220"/>
     </stocks>
   </item>
-  <item externalId="Product03test1050" name="Номенклатура для создания товара Test-1050" price="1000">
+  <item externalId="Product11test1050" name="Nomenclature 11 without link Test-1050" price="2300">
     <stocks>
-      <stock externalWarehouseId="postsklad-1050" quantity="25"/>
+      <stock externalWarehouseId="postsklad-1050" quantity="100"/>
     </stocks>
   </item>
-  <item externalId="Product03test1050" name="Номенклатура для создания товара Test-1050" price="1000">
+  <item externalId="Product12test1050" name="Nomenclature 12 without link Test-1050" price="1000">
     <stocks>
-      <stock externalWarehouseId="postsklad-1050" quantity="25"/>
+      <stock externalWarehouseId="postsklad-1050" quantity="600"/>
     </stocks>
   </item>
-  <item externalId="Product03test1050" name="Номенклатура для создания товара Test-1050" price="1000">
+  <item externalId="Product13test1050" name="Nomenclature 13 without link Test-1050" price="1000">
     <stocks>
-      <stock externalWarehouseId="postsklad-1050" quantity="25"/>
+      <stock externalWarehouseId="postsklad-1050" quantity="220"/>
     </stocks>
   </item>
-  <item externalId="Product03test1050" name="Номенклатура для создания товара Test-1050" price="1000">
+  <item externalId="Product14test1050" name="Nomenclature 14 without link Test-1050" price="1000">
     <stocks>
-      <stock externalWarehouseId="postsklad-1050" quantity="25"/>
+      <stock externalWarehouseId="postsklad-1050" quantity="230"/>
     </stocks>
   </item>
-  <item externalId="Product03test1050" name="Номенклатура для создания товара Test-1050" price="1000">
+  <item externalId="Product15test1050" name="Nomenclature 15 without link Test-1050" price="1000">
     <stocks>
-      <stock externalWarehouseId="postsklad-1050" quantity="25"/>
+      <stock externalWarehouseId="postsklad-1050" quantity="230"/>
     </stocks>
   </item>
-  <item externalId="Product03test1050" name="Номенклатура для создания товара Test-1050" price="1000">
+  <item externalId="Product16test1050" name="Nomenclature 16 without link Test-1050" price="2200">
     <stocks>
-      <stock externalWarehouseId="postsklad-1050" quantity="25"/>
+      <stock externalWarehouseId="postsklad-1050" quantity="230"/>
     </stocks>
   </item>
-  <item externalId="Product03test1050" name="Номенклатура для создания товара Test-1050" price="1000">
+  <item externalId="Product17test1050" name="Nomenclature 17 without link Test-1050" price="6000">
     <stocks>
-      <stock externalWarehouseId="postsklad-1050" quantity="25"/>
+      <stock externalWarehouseId="postsklad-1050" quantity="100"/>
     </stocks>
   </item>
-  <item externalId="Product03test1050" name="Номенклатура для создания товара Test-1050" price="1000">
+  <item externalId="Product18test1050" name="Nomenclature 18 without link Test-1050" price="6000">
     <stocks>
-      <stock externalWarehouseId="postsklad-1050" quantity="25"/>
+      <stock externalWarehouseId="postsklad-1050" quantity="220"/>
     </stocks>
   </item>
-  <item externalId="Product03test1050" name="Номенклатура для создания товара Test-1050" price="1000">
+  <item externalId="Product19test1050" name="Nomenclature 19 without link Test-1050" price="2200">
     <stocks>
-      <stock externalWarehouseId="postsklad-1050" quantity="25"/>
+      <stock externalWarehouseId="postsklad-1050" quantity="600"/>
     </stocks>
   </item>
-  <item externalId="Product03test1050" name="Номенклатура для создания товара Test-1050" price="1000">
+  <item externalId="Product20test1050" name="Nomenclature 20 without link Test-1050" price="2300">
     <stocks>
-      <stock externalWarehouseId="postsklad-1050" quantity="25"/>
+      <stock externalWarehouseId="postsklad-1050" quantity="150"/>
     </stocks>
   </item>
-  <item externalId="Product03test1050" name="Номенклатура для создания товара Test-1050" price="1000">
+  <item externalId="Product21test1050" name="Nomenclature 21 without link Test-1050" price="1000">
     <stocks>
-      <stock externalWarehouseId="postsklad-1050" quantity="25"/>
+      <stock externalWarehouseId="postsklad-1050" quantity="150"/>
     </stocks>
   </item>
-  <item externalId="Product03test1050" name="Номенклатура для создания товара Test-1050" price="1000">
+  <item externalId="Product22test1050" name="Nomenclature 22 without link Test-1050" price="1000">
     <stocks>
-      <stock externalWarehouseId="postsklad-1050" quantity="25"/>
+      <stock externalWarehouseId="postsklad-1050" quantity="600"/>
     </stocks>
   </item>
-  <item externalId="Product03test1050" name="Номенклатура для создания товара Test-1050" price="1000">
+  <item externalId="Product23test1050" name="Nomenclature 23 without link Test-1050" price="6000">
     <stocks>
-      <stock externalWarehouseId="postsklad-1050" quantity="25"/>
+      <stock externalWarehouseId="postsklad-1050" quantity="150"/>
     </stocks>
   </item>
-  <item externalId="Product03test1050" name="Номенклатура для создания товара Test-1050" price="1000">
+  <item externalId="Product24test1050" name="Nomenclature 24 without link Test-1050" price="1500">
     <stocks>
-      <stock externalWarehouseId="postsklad-1050" quantity="25"/>
+      <stock externalWarehouseId="postsklad-1050" quantity="100"/>
     </stocks>
   </item>
-  <item externalId="Product03test1050" name="Номенклатура для создания товара Test-1050" price="1000">
+  <item externalId="Product25test1050" name="Nomenclature 25 without link Test-1050" price="1500">
     <stocks>
-      <stock externalWarehouseId="postsklad-1050" quantity="25"/>
+      <stock externalWarehouseId="postsklad-1050" quantity="600"/>
     </stocks>
   </item>
-  <item externalId="Product03test1050" name="Номенклатура для создания товара Test-1050" price="1000">
+  <item externalId="Product26test1050" name="Nomenclature 26 without link Test-1050" price="2200">
     <stocks>
-      <stock externalWarehouseId="postsklad-1050" quantity="25"/>
+      <stock externalWarehouseId="postsklad-1050" quantity="600"/>
     </stocks>
   </item>
-  <item externalId="Product03test1050" name="Номенклатура для создания товара Test-1050" price="1000">
+  <item externalId="Product27test1050" name="Nomenclature 27 without link Test-1050" price="2200">
     <stocks>
-      <stock externalWarehouseId="postsklad-1050" quantity="25"/>
+      <stock externalWarehouseId="postsklad-1050" quantity="100"/>
     </stocks>
   </item>
-  <item externalId="Product03test1050" name="Номенклатура для создания товара Test-1050" price="1000">
+  <item externalId="Product28test1050" name="Nomenclature 28 without link Test-1050" price="1500">
     <stocks>
-      <stock externalWarehouseId="postsklad-1050" quantity="25"/>
+      <stock externalWarehouseId="postsklad-1050" quantity="150"/>
     </stocks>
   </item>
-  <item externalId="Product03test1050" name="Номенклатура для создания товара Test-1050" price="1000">
+  <item externalId="Product29test1050" name="Nomenclature 29 without link Test-1050" price="6000">
     <stocks>
-      <stock externalWarehouseId="postsklad-1050" quantity="25"/>
+      <stock externalWarehouseId="postsklad-1050" quantity="150"/>
     </stocks>
   </item>
-  <item externalId="Product03test1050" name="Номенклатура для создания товара Test-1050" price="1000">
+  <item externalId="Product30test1050" name="Nomenclature 30 without link Test-1050" price="6000">
     <stocks>
-      <stock externalWarehouseId="postsklad-1050" quantity="25"/>
+      <stock externalWarehouseId="postsklad-1050" quantity="100"/>
     </stocks>
   </item>
-  <item externalId="Product03test1050" name="Номенклатура для создания товара Test-1050" price="1000">
+  <item externalId="Product31test1050" name="Nomenclature 31 without link Test-1050" price="1000">
     <stocks>
-      <stock externalWarehouseId="postsklad-1050" quantity="25"/>
+      <stock externalWarehouseId="postsklad-1050" quantity="230"/>
     </stocks>
   </item>
-  <item externalId="Product03test1050" name="Номенклатура для создания товара Test-1050" price="1000">
+  <item externalId="Product32test1050" name="Nomenclature 32 without link Test-1050" price="1000">
     <stocks>
-      <stock externalWarehouseId="postsklad-1050" quantity="25"/>
+      <stock externalWarehouseId="postsklad-1050" quantity="150"/>
     </stocks>
   </item>
-  <item externalId="Product03test1050" name="Номенклатура для создания товара Test-1050" price="1000">
+  <item externalId="Product33test1050" name="Nomenclature 33 without link Test-1050" price="6000">
     <stocks>
-      <stock externalWarehouseId="postsklad-1050" quantity="25"/>
+      <stock externalWarehouseId="postsklad-1050" quantity="230"/>
     </stocks>
   </item>
-  <item externalId="Product03test1050" name="Номенклатура для создания товара Test-1050" price="1000">
+  <item externalId="Product34test1050" name="Nomenclature 34 without link Test-1050" price="1500">
     <stocks>
-      <stock externalWarehouseId="postsklad-1050" quantity="25"/>
+      <stock externalWarehouseId="postsklad-1050" quantity="150"/>
     </stocks>
   </item>
-  <item externalId="Product03test1050" name="Номенклатура для создания товара Test-1050" price="1000">
+  <item externalId="Product35test1050" name="Nomenclature 35 without link Test-1050" price="1500">
     <stocks>
-      <stock externalWarehouseId="postsklad-1050" quantity="25"/>
+      <stock externalWarehouseId="postsklad-1050" quantity="220"/>
     </stocks>
   </item>
-  <item externalId="Product03test1050" name="Номенклатура для создания товара Test-1050" price="1000">
+  <item externalId="Product36test1050" name="Nomenclature 36 without link Test-1050" price="1000">
     <stocks>
-      <stock externalWarehouseId="postsklad-1050" quantity="25"/>
+      <stock externalWarehouseId="postsklad-1050" quantity="600"/>
     </stocks>
   </item>
-  <item externalId="Product03test1050" name="Номенклатура для создания товара Test-1050" price="1000">
+  <item externalId="Product37test1050" name="Nomenclature 37 without link Test-1050" price="2200">
     <stocks>
-      <stock externalWarehouseId="postsklad-1050" quantity="25"/>
+      <stock externalWarehouseId="postsklad-1050" quantity="150"/>
     </stocks>
   </item>
-  <item externalId="Product03test1050" name="Номенклатура для создания товара Test-1050" price="1000">
+  <item externalId="Product38test1050" name="Nomenclature 38 without link Test-1050" price="1500">
     <stocks>
-      <stock externalWarehouseId="postsklad-1050" quantity="25"/>
+      <stock externalWarehouseId="postsklad-1050" quantity="100"/>
     </stocks>
   </item>
-  <item externalId="Product03test1050" name="Номенклатура для создания товара Test-1050" price="1000">
+  <item externalId="Product39test1050" name="Nomenclature 39 without link Test-1050" price="1000">
     <stocks>
-      <stock externalWarehouseId="postsklad-1050" quantity="25"/>
+      <stock externalWarehouseId="postsklad-1050" quantity="220"/>
     </stocks>
   </item>
-  <item externalId="Product03test1050" name="Номенклатура для создания товара Test-1050" price="1000">
+  <item externalId="Product40test1050" name="Nomenclature 40 without link Test-1050" price="2200">
     <stocks>
-      <stock externalWarehouseId="postsklad-1050" quantity="25"/>
+      <stock externalWarehouseId="postsklad-1050" quantity="230"/>
     </stocks>
   </item>
-  <item externalId="Product03test1050" name="Номенклатура для создания товара Test-1050" price="1000">
+  <item externalId="Product41test1050" name="Nomenclature 41 without link Test-1050" price="2300">
     <stocks>
-      <stock externalWarehouseId="postsklad-1050" quantity="25"/>
+      <stock externalWarehouseId="postsklad-1050" quantity="150"/>
     </stocks>
   </item>
-  <item externalId="Product03test1050" name="Номенклатура для создания товара Test-1050" price="1000">
+  <item externalId="Product42test1050" name="Nomenclature 42 without link Test-1050" price="6000">
     <stocks>
-      <stock externalWarehouseId="postsklad-1050" quantity="25"/>
+      <stock externalWarehouseId="postsklad-1050" quantity="100"/>
     </stocks>
   </item>
-  <item externalId="Product03test1050" name="Номенклатура для создания товара Test-1050" price="1000">
+  <item externalId="Product43test1050" name="Nomenclature 43 without link Test-1050" price="1500">
     <stocks>
-      <stock externalWarehouseId="postsklad-1050" quantity="25"/>
+      <stock externalWarehouseId="postsklad-1050" quantity="150"/>
     </stocks>
   </item>
-  <item externalId="Product03test1050" name="Номенклатура для создания товара Test-1050" price="1000">
+  <item externalId="Product44test1050" name="Nomenclature 44 without link Test-1050" price="2300">
     <stocks>
-      <stock externalWarehouseId="postsklad-1050" quantity="25"/>
+      <stock externalWarehouseId="postsklad-1050" quantity="220"/>
     </stocks>
   </item>
-  <item externalId="Product03test1050" name="Номенклатура для создания товара Test-1050" price="1000">
+  <item externalId="Product45test1050" name="Nomenclature 45 without link Test-1050" price="1000">
     <stocks>
-      <stock externalWarehouseId="postsklad-1050" quantity="25"/>
+      <stock externalWarehouseId="postsklad-1050" quantity="220"/>
     </stocks>
   </item>
-  <item externalId="Product03test1050" name="Номенклатура для создания товара Test-1050" price="1000">
+  <item externalId="Product46test1050" name="Nomenclature 46 without link Test-1050" price="2300">
     <stocks>
-      <stock externalWarehouseId="postsklad-1050" quantity="25"/>
+      <stock externalWarehouseId="postsklad-1050" quantity="220"/>
     </stocks>
   </item>
-  <item externalId="Product03test1050" name="Номенклатура для создания товара Test-1050" price="1000">
+  <item externalId="Product47test1050" name="Nomenclature 47 without link Test-1050" price="2200">
     <stocks>
-      <stock externalWarehouseId="postsklad-1050" quantity="25"/>
+      <stock externalWarehouseId="postsklad-1050" quantity="220"/>
     </stocks>
   </item>
-  <item externalId="Product03test1050" name="Номенклатура для создания товара Test-1050" price="1000">
+  <item externalId="Product48test1050" name="Nomenclature 48 without link Test-1050" price="1500">
     <stocks>
-      <stock externalWarehouseId="postsklad-1050" quantity="25"/>
+      <stock externalWarehouseId="postsklad-1050" quantity="100"/>
     </stocks>
   </item>
-  <item externalId="Product03test1050" name="Номенклатура для создания товара Test-1050" price="1000">
+  <item externalId="Product49test1050" name="Nomenclature 49 without link Test-1050" price="2300">
     <stocks>
-      <stock externalWarehouseId="postsklad-1050" quantity="25"/>
+      <stock externalWarehouseId="postsklad-1050" quantity="100"/>
     </stocks>
   </item>
-  <item externalId="Product03test1050" name="Номенклатура для создания товара Test-1050" price="1000">
+  <item externalId="Product50test1050" name="Nomenclature 50 without link Test-1050" price="2300">
     <stocks>
-      <stock externalWarehouseId="postsklad-1050" quantity="25"/>
+      <stock externalWarehouseId="postsklad-1050" quantity="600"/>
     </stocks>
   </item>
-  <item externalId="Product03test1050" name="Номенклатура для создания товара Test-1050" price="1000">
+  <item externalId="Product51test1050" name="Nomenclature 51 without link Test-1050" price="1500">
     <stocks>
-      <stock externalWarehouseId="postsklad-1050" quantity="25"/>
+      <stock externalWarehouseId="postsklad-1050" quantity="230"/>
     </stocks>
   </item>
-  <item externalId="Product03test1050" name="Номенклатура для создания товара Test-1050" price="1000">
+  <item externalId="Product52test1050" name="Nomenclature 52 without link Test-1050" price="2200">
     <stocks>
-      <stock externalWarehouseId="postsklad-1050" quantity="25"/>
+      <stock externalWarehouseId="postsklad-1050" quantity="150"/>
     </stocks>
   </item>
-  <item externalId="Product03test1050" name="Номенклатура для создания товара Test-1050" price="1000">
+  <item externalId="Product53test1050" name="Nomenclature 53 without link Test-1050" price="2300">
     <stocks>
-      <stock externalWarehouseId="postsklad-1050" quantity="25"/>
+      <stock externalWarehouseId="postsklad-1050" quantity="150"/>
     </stocks>
   </item>
-  <item externalId="Product03test1050" name="Номенклатура для создания товара Test-1050" price="1000">
+  <item externalId="Product54test1050" name="Nomenclature 54 without link Test-1050" price="2200">
     <stocks>
-      <stock externalWarehouseId="postsklad-1050" quantity="25"/>
+      <stock externalWarehouseId="postsklad-1050" quantity="600"/>
     </stocks>
   </item>
-  <item externalId="Product03test1050" name="Номенклатура для создания товара Test-1050" price="1000">
+  <item externalId="Product55test1050" name="Nomenclature 55 without link Test-1050" price="2200">
     <stocks>
-      <stock externalWarehouseId="postsklad-1050" quantity="25"/>
+      <stock externalWarehouseId="postsklad-1050" quantity="230"/>
     </stocks>
   </item>
-  <item externalId="Product03test1050" name="Номенклатура для создания товара Test-1050" price="1000">
+  <item externalId="Product56test1050" name="Nomenclature 56 without link Test-1050" price="2200">
     <stocks>
-      <stock externalWarehouseId="postsklad-1050" quantity="25"/>
+      <stock externalWarehouseId="postsklad-1050" quantity="600"/>
     </stocks>
   </item>
-  <item externalId="Product03test1050" name="Номенклатура для создания товара Test-1050" price="1000">
+  <item externalId="Product57test1050" name="Nomenclature 57 without link Test-1050" price="6000">
     <stocks>
-      <stock externalWarehouseId="postsklad-1050" quantity="25"/>
+      <stock externalWarehouseId="postsklad-1050" quantity="600"/>
     </stocks>
   </item>
-  <item externalId="Product03test1050" name="Номенклатура для создания товара Test-1050" price="1000">
+  <item externalId="Product58test1050" name="Nomenclature 58 without link Test-1050" price="1500">
     <stocks>
-      <stock externalWarehouseId="postsklad-1050" quantity="25"/>
+      <stock externalWarehouseId="postsklad-1050" quantity="230"/>
     </stocks>
   </item>
-  <item externalId="Product03test1050" name="Номенклатура для создания товара Test-1050" price="1000">
+  <item externalId="Product59test1050" name="Nomenclature 59 without link Test-1050" price="2200">
     <stocks>
-      <stock externalWarehouseId="postsklad-1050" quantity="25"/>
+      <stock externalWarehouseId="postsklad-1050" quantity="150"/>
     </stocks>
   </item>
-  <item externalId="Product03test1050" name="Номенклатура для создания товара Test-1050" price="1000">
+  <item externalId="Product60test1050" name="Nomenclature 60 without link Test-1050" price="6000">
     <stocks>
-      <stock externalWarehouseId="postsklad-1050" quantity="25"/>
+      <stock externalWarehouseId="postsklad-1050" quantity="600"/>
+    </stocks>
+  </item>
+  <item externalId="Product61test1050" name="Nomenclature 61 without link Test-1050" price="2300">
+    <stocks>
+      <stock externalWarehouseId="postsklad-1050" quantity="100"/>
+    </stocks>
+  </item>
+  <item externalId="Product62test1050" name="Nomenclature 62 without link Test-1050" price="2300">
+    <stocks>
+      <stock externalWarehouseId="postsklad-1050" quantity="100"/>
+    </stocks>
+  </item>
+  <item externalId="Product63test1050" name="Nomenclature 63 without link Test-1050" price="1500">
+    <stocks>
+      <stock externalWarehouseId="postsklad-1050" quantity="600"/>
+    </stocks>
+  </item>
+  <item externalId="Product64test1050" name="Nomenclature 64 without link Test-1050" price="1000">
+    <stocks>
+      <stock externalWarehouseId="postsklad-1050" quantity="600"/>
+    </stocks>
+  </item>
+  <item externalId="Product65test1050" name="Nomenclature 65 without link Test-1050" price="1500">
+    <stocks>
+      <stock externalWarehouseId="postsklad-1050" quantity="230"/>
+    </stocks>
+  </item>
+  <item externalId="Product66test1050" name="Nomenclature 66 without link Test-1050" price="6000">
+    <stocks>
+      <stock externalWarehouseId="postsklad-1050" quantity="220"/>
+    </stocks>
+  </item>
+  <item externalId="Product67test1050" name="Nomenclature 67 without link Test-1050" price="1500">
+    <stocks>
+      <stock externalWarehouseId="postsklad-1050" quantity="150"/>
+    </stocks>
+  </item>
+  <item externalId="Product68test1050" name="Nomenclature 68 without link Test-1050" price="2200">
+    <stocks>
+      <stock externalWarehouseId="postsklad-1050" quantity="230"/>
+    </stocks>
+  </item>
+  <item externalId="Product69test1050" name="Nomenclature 69 without link Test-1050" price="2200">
+    <stocks>
+      <stock externalWarehouseId="postsklad-1050" quantity="230"/>
+    </stocks>
+  </item>
+  <item externalId="Product70test1050" name="Nomenclature 70 without link Test-1050" price="2300">
+    <stocks>
+      <stock externalWarehouseId="postsklad-1050" quantity="100"/>
+    </stocks>
+  </item>
+  <item externalId="Product71test1050" name="Nomenclature 71 without link Test-1050" price="1500">
+    <stocks>
+      <stock externalWarehouseId="postsklad-1050" quantity="150"/>
+    </stocks>
+  </item>
+  <item externalId="Product72test1050" name="Nomenclature 72 without link Test-1050" price="2300">
+    <stocks>
+      <stock externalWarehouseId="postsklad-1050" quantity="220"/>
+    </stocks>
+  </item>
+  <item externalId="Product73test1050" name="Nomenclature 73 without link Test-1050" price="1500">
+    <stocks>
+      <stock externalWarehouseId="postsklad-1050" quantity="220"/>
+    </stocks>
+  </item>
+  <item externalId="Product74test1050" name="Nomenclature 74 without link Test-1050" price="2300">
+    <stocks>
+      <stock externalWarehouseId="postsklad-1050" quantity="150"/>
+    </stocks>
+  </item>
+  <item externalId="Product75test1050" name="Nomenclature 75 without link Test-1050" price="6000">
+    <stocks>
+      <stock externalWarehouseId="postsklad-1050" quantity="100"/>
+    </stocks>
+  </item>
+  <item externalId="Product76test1050" name="Nomenclature 76 without link Test-1050" price="2300">
+    <stocks>
+      <stock externalWarehouseId="postsklad-1050" quantity="150"/>
+    </stocks>
+  </item>
+  <item externalId="Product77test1050" name="Nomenclature 77 without link Test-1050" price="6000">
+    <stocks>
+      <stock externalWarehouseId="postsklad-1050" quantity="600"/>
+    </stocks>
+  </item>
+  <item externalId="Product78test1050" name="Nomenclature 78 without link Test-1050" price="2200">
+    <stocks>
+      <stock externalWarehouseId="postsklad-1050" quantity="220"/>
+    </stocks>
+  </item>
+  <item externalId="Product79test1050" name="Nomenclature 79 without link Test-1050" price="6000">
+    <stocks>
+      <stock externalWarehouseId="postsklad-1050" quantity="600"/>
+    </stocks>
+  </item>
+  <item externalId="Product80test1050" name="Nomenclature 80 without link Test-1050" price="1500">
+    <stocks>
+      <stock externalWarehouseId="postsklad-1050" quantity="150"/>
+    </stocks>
+  </item>
+  <item externalId="Product81test1050" name="Nomenclature 81 without link Test-1050" price="2200">
+    <stocks>
+      <stock externalWarehouseId="postsklad-1050" quantity="150"/>
+    </stocks>
+  </item>
+  <item externalId="Product82test1050" name="Nomenclature 82 without link Test-1050" price="1000">
+    <stocks>
+      <stock externalWarehouseId="postsklad-1050" quantity="220"/>
+    </stocks>
+  </item>
+  <item externalId="Product83test1050" name="Nomenclature 83 without link Test-1050" price="1500">
+    <stocks>
+      <stock externalWarehouseId="postsklad-1050" quantity="100"/>
+    </stocks>
+  </item>
+  <item externalId="Product84test1050" name="Nomenclature 84 without link Test-1050" price="1500">
+    <stocks>
+      <stock externalWarehouseId="postsklad-1050" quantity="600"/>
+    </stocks>
+  </item>
+  <item externalId="Product85test1050" name="Nomenclature 85 without link Test-1050" price="2300">
+    <stocks>
+      <stock externalWarehouseId="postsklad-1050" quantity="600"/>
+    </stocks>
+  </item>
+  <item externalId="Product86test1050" name="Nomenclature 86 without link Test-1050" price="6000">
+    <stocks>
+      <stock externalWarehouseId="postsklad-1050" quantity="100"/>
+    </stocks>
+  </item>
+  <item externalId="Product87test1050" name="Nomenclature 87 without link Test-1050" price="6000">
+    <stocks>
+      <stock externalWarehouseId="postsklad-1050" quantity="220"/>
+    </stocks>
+  </item>
+  <item externalId="Product88test1050" name="Nomenclature 88 without link Test-1050" price="1000">
+    <stocks>
+      <stock externalWarehouseId="postsklad-1050" quantity="220"/>
+    </stocks>
+  </item>
+  <item externalId="Product89test1050" name="Nomenclature 89 without link Test-1050" price="1500">
+    <stocks>
+      <stock externalWarehouseId="postsklad-1050" quantity="100"/>
+    </stocks>
+  </item>
+  <item externalId="Product90test1050" name="Nomenclature 90 without link Test-1050" price="1000">
+    <stocks>
+      <stock externalWarehouseId="postsklad-1050" quantity="150"/>
+    </stocks>
+  </item>
+  <item externalId="Product91test1050" name="Nomenclature 91 without link Test-1050" price="2300">
+    <stocks>
+      <stock externalWarehouseId="postsklad-1050" quantity="230"/>
+    </stocks>
+  </item>
+  <item externalId="Product92test1050" name="Nomenclature 92 without link Test-1050" price="1000">
+    <stocks>
+      <stock externalWarehouseId="postsklad-1050" quantity="220"/>
+    </stocks>
+  </item>
+  <item externalId="Product93test1050" name="Nomenclature 93 without link Test-1050" price="1000">
+    <stocks>
+      <stock externalWarehouseId="postsklad-1050" quantity="600"/>
+    </stocks>
+  </item>
+  <item externalId="Product94test1050" name="Nomenclature 94 without link Test-1050" price="1000">
+    <stocks>
+      <stock externalWarehouseId="postsklad-1050" quantity="100"/>
+    </stocks>
+  </item>
+  <item externalId="Product95test1050" name="Nomenclature 95 without link Test-1050" price="6000">
+    <stocks>
+      <stock externalWarehouseId="postsklad-1050" quantity="100"/>
+    </stocks>
+  </item>
+  <item externalId="Product96test1050" name="Nomenclature 96 without link Test-1050" price="2200">
+    <stocks>
+      <stock externalWarehouseId="postsklad-1050" quantity="150"/>
+    </stocks>
+  </item>
+  <item externalId="Product97test1050" name="Nomenclature 97 without link Test-1050" price="2200">
+    <stocks>
+      <stock externalWarehouseId="postsklad-1050" quantity="150"/>
+    </stocks>
+  </item>
+  <item externalId="Product98test1050" name="Nomenclature 98 without link Test-1050" price="1000">
+    <stocks>
+      <stock externalWarehouseId="postsklad-1050" quantity="220"/>
+    </stocks>
+  </item>
+  <item externalId="Product99test1050" name="Nomenclature 99 without link Test-1050" price="6000">
+    <stocks>
+      <stock externalWarehouseId="postsklad-1050" quantity="600"/>
+    </stocks>
+  </item>
+  <item externalId="Product100test1050" name="Nomenclature 100 without link Test-1050" price="1500">
+    <stocks>
+      <stock externalWarehouseId="postsklad-1050" quantity="150"/>
     </stocks>
   </item>
 </items>
