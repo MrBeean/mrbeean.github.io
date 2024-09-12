@@ -1,10 +1,10 @@
 <items date="2024-09-12T23:59:00">
-  <item externalProductId="Product01test1052" externalId="Product01test1052" sku="Product01skutest1052" name="Позиция с привязкой 01 Test-1052" price="1000">
+  <item externalProductId="Product01test1052" externalId="Product01test1052" sku="Product 01 sku test 1052 u" name="Позиция с привязкой 01 Test-1052" price="1000">
     <stocks>
       <stock externalWarehouseId="postsklad-1052" quantity="100"/>
     </stocks>
   </item>
-  <item externalId="Product02test1052" sku="Product02skutest1052" name="Номенклатура без привязки 02 Test-1052" price="6000">
+  <item externalId="Product02test1052" sku="Product 02 sku test 1052 u" name="Номенклатура без привязки 02 Test-1052" price="6000">
     <stocks>
       <stock externalWarehouseId="postsklad-1052" quantity="100"/>
     </stocks>
@@ -744,7 +744,7 @@
       <stock externalWarehouseId="postsklad-1052" quantity="150"/>
     </stocks>
   </item>
-  <item externalId="Product150test1052" sku="Product150skutest1052" name="Позиция с привязкой 150 к Test-1052" price="2200">
+  <item externalId="Product150test1052" sku="Product 150 sku test 1052 u" name="Позиция с привязкой 150 к Test-1052" price="2200">
     <stocks>
       <stock externalWarehouseId="postsklad-1052" quantity="150"/>
     </stocks>
