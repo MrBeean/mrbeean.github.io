@@ -9,12 +9,7 @@
       <stock externalWarehouseId="postsklad-1312" quantity="100"/>
     </stocks>
   </item>
-  <item externalProductId="Product03test1312" externalId="Product03test1312" name="Номенклатура товара Товар 02 Тест-1312" price="1000">
-    <stocks>
-      <stock externalWarehouseId="postsklad-1312" quantity="100"/>
-    </stocks>
-  </item>
-  <item externalProductId="Product04test1312" externalId="Product04test1312" name="Номенклатура товара Товар 02 Тест-1312" price="1000">
+  <item externalProductId="Product03test1312" externalId="Product03test1312" name="Номенклатура товара Товар 03 Тест-1312" price="1000">
     <stocks>
       <stock externalWarehouseId="postsklad-1312" quantity="100"/>
     </stocks>
