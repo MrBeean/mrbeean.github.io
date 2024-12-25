@@ -1,12 +1,12 @@
 <items date="2024-11-10T23:59:00">
   <item externalProductId="9403395303" externalId="9403395303" name="Номенклатура товара BOT-WB01" price="4000">
     <stocks>
-      <stock externalWarehouseId="postsklad-E2E" quantity="100"/>
+      <stock externalWarehouseId="postsklad-E2E" quantity="200"/>
     </stocks>
   </item>
   <item externalProductId="8694708195" externalId="8694708195" name="Номенклатура товара HUAWEI WATCH D2" price="29000">
     <stocks>
-      <stock externalWarehouseId="postsklad-E2E" quantity="100"/>
+      <stock externalWarehouseId="postsklad-E2E" quantity="200"/>
     </stocks>
   </item>
 </items>
