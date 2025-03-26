@@ -1,7 +1,7 @@
 <items date="2025-05-26T23:59:00">
   <item externalProductId="20240526_01" externalId="20240526_01" name="Номенклатура товара 20240526_01" price="1000">
     <stocks>
-      <stock externalWarehouseId="postsklad-1369" quantity="100"/>
+      <stock externalWarehouseId="20240526_01" quantity="100"/>
     </stocks>
   </item>
 </items>
