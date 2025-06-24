@@ -1,0 +1,7 @@
+<items date="2025-06-24T10:00:00">
+    <item externalProductId="17507570413" externalId="17507570413" name="Номенклатура для Tasty Cotton Hat Intelligent Tools" price="800">
+        <stocks>
+            <stock externalWarehouseId="sklad-ODC-2961" quantity="20000"/>
+        </stocks>
+    </item>
+</items>
