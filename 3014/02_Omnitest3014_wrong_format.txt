@@ -1,0 +1,1 @@
+<items date="2025-10-07T10:00:00"><item externalProductId="20251007301402" externalId="20251007301402" name="Номенклатурная позиция для Тестовый товар 301402" price="15000"><stocks><stock externalWarehouseId="202510073014" quantity="45"/></stocks></item></items>

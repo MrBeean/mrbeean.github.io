@@ -1,0 +1,5 @@
+<items date="2025-10-07T10:00:00">
+    <item externalProductId="20251007301401" externalId="20251007301401" name="Номенклатурная позиция для Тестовый товар 301401" price="14000">
+        <stock externalWarehouseId="20251007301401" quantity="35"/>   
+    </item>
+</items>
