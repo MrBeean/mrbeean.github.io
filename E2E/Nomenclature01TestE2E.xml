@@ -1,10 +1,10 @@
 <items date="2024-11-10T23:59:00">
-  <item externalProductId="BHR9388GL" externalId="BHR9388GL" name="Номенклатура товара Redmi Watch 5 Lavender Purple BHR9388GL" price="7450">
+  <item externalProductId="103741627133" externalId="103741627133" name="Номенклатура товара Redmi Watch 5 Lavender Purple BHR9388GL" price="7450">
     <stocks>
       <stock externalWarehouseId="postsklad-E2E" quantity="2000"/>
     </stocks>
   </item>
-  <item externalProductId="BHR07PYGL" externalId="BHR07PYGL" name="Номенклатура товара Xiaomi Smart Band 10 Midnight Black (BHR07PYGL)" price="2150">
+  <item externalProductId="4465097071" externalId="4465097071" name="Номенклатура товара Xiaomi Smart Band 10 Midnight Black (BHR07PYGL)" price="2150">
     <stocks>
       <stock externalWarehouseId="postsklad-E2E" quantity="2000"/>
     </stocks>
